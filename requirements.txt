@@ -1,0 +1,4 @@
+pkg-resources==0.0.0
+python-xlib==0.18
+RandomWords==0.2.0
+six==1.10.0
